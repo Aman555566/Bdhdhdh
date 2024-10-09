@@ -1,0 +1,1 @@
+query_id=AAFQUYA0AwAAAFBRgDQYG9Rz&user=%7B%22id%22%3A7323275600%2C%22first_name%22%3A%22New%20part%2075%20start%20%F0%9F%A6%B4%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Dmdjfnf%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727454888&hash=e86aabbcdb192835e9f2eaceff0c8550821b3a038275614ec2aeea8d72beae99
